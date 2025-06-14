@@ -4,7 +4,7 @@ Fully automated AI trading bot for **Ethereum-based tokens**, developed with the
 
 ## Watch the Video
 
-[Full Video Tutorial]()
+[Full Video Tutorial](https://www.youtube.com/watch?v=wzIa0Dr1Y2Y)
 
 ## 🛠️ Setup Instructions
 
